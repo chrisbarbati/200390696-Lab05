@@ -1,0 +1,50 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(89, 52, 255);
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(126, 14, 255);
+    text-align: center;
+    background-color: rgba(255,255,255,.6);
+    border: 4px solid black;
+    padding: 1em;
+    text-decoration: underline;
+}
+h2{
+    color: rgb(126, 14, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    padding: 1em;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+.a{
+    color:#db5d24;
+    font-weight: bold;
+    background-color:#24a2db;
+}
+.b{
+    color:#dc23a5;
+    font-weight: bold;
+    background-color:darkslateblue;
+}
+div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: rgba(255,255,255,.6);
+    padding: 1em;
+    /*I decided to widen the border to 4px for better visibility
+    */
+    border: 4px solid black;
+    border-radius: 1em;
+}
+img{
+    width: 300px;
+    float: left;
+    margin: 1em;
+}
